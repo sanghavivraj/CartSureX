@@ -1,0 +1,17 @@
+npm start
+npx create-react-app frontend
+npm install -D tailwindcss@3
+npx tailwindcss init
+
+backend:::
+npm run dev
+mongodb
+
+start cmd at stripe
+~stripe login
+~stripe listen --forward-to localhost:8080/api/webhook
+~stripe trigger checkout.session.completed
+
+open mongodb and also run stripe in cmd then 
+frontend : npm start
+backend : npm run dev

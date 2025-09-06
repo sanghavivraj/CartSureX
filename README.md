@@ -9,6 +9,7 @@ CartSureX is an e-commerce web application built using the **MERN stack** that a
 
 ### 🛒 **E-commerce Platform**
 - Browse and purchase products across multiple categories.
+- Search products by keyword or category for easy browsing.
 - Secure **user authentication** and authorization.
 - Integrated **shopping cart** and order management.
 
@@ -24,6 +25,7 @@ CartSureX is an e-commerce web application built using the **MERN stack** that a
 ### 🔐 **Security**
 - JWT-based authentication for secure login/signup.
 - Encrypted storage of warranty documents and user data.
+- Basic authentication implemented using JWT and Bcrypt (email verification and Google login were planned but not implemented).
 
 ---
 
